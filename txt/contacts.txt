@@ -1,0 +1,13 @@
+Developer Contact Details:
+--------------------------
+Our Team:
+
+Gaurav Sarkar
+Shashank sai burri
+Vineeth reddy thalasani
+
+
+
+This website is made as a final project for CMPE 272 (Spring 2023) under Prof. Richard Sinn at San Jose State University.
+
+The content on this website is NOT real or functional.
